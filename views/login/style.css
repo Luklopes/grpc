@@ -1,0 +1,14 @@
+.login{
+    margin: 20% auto auto auto;
+    width: 30%;       
+    padding: 10px;
+}
+
+.login-button{
+    float: right
+}
+
+#login-error{
+    display: none;
+    color: red
+}
